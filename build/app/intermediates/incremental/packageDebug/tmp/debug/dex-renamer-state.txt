@@ -1,0 +1,4 @@
+#Wed Dec 07 23:05:05 BRT 2022
+base.0=E\:\\TESTE 2\\tcc0909-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
